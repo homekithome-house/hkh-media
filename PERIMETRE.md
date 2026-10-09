@@ -1,8 +1,9 @@
 # PÉRIMÈTRE — HKH/Media
-nature: produit · departement: marketing
+
+Service : Marque & contenu · nature : bibliothèque — dépôt de visuels publiés ; pas de carte sans tâche (aucune tâche, aucune carte au tableau).
 
 ## Mission (1 phrase)
-Servir de dépôt distant public des visuels HKH publiés — URL publique stable exigée par l'API Meta et les autres plateformes, hors du repo de code.
+Médiathèque (bibliothèque) : dépôt distant public des visuels HKH publiés — URL publique stable exigée par l'API Meta et les autres plateformes, hors du repo de code.
 
 ## Je possède (source de vérité — fait foi en cas de doublon)
 - Visuels publiés bruts : `posts/{YYYY-MM}/{NNN}-{slug}/image-1.jpg` (copie de publication, jamais la référence — cf. Interfaces).
